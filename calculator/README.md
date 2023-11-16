@@ -4,9 +4,9 @@ An IOS style Calculator.
 
 ## Services and Packages Used
 
--Flutter_lints
+- Flutter_lints
 
--Flutter_launcher_icons
+- Flutter_launcher_icons
 
 
 This project is a starting point for a Flutter application.
