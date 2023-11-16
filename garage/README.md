@@ -4,13 +4,13 @@ An application to control and use the services of an automatic garage using IOT 
 
 ## Services and Packages Used
 
-  -Cupertino_icons
+  - Cupertino_icons
   
-  -Firebase_core
+  - Firebase_core
   
-  -Cloud_firestore
+  - Cloud_firestore
   
-  -Firebase_auth
+  - Firebase_auth
 
 The main idea is an app from which the user can be connected to the Garage services through the cloud using Iot.
 
