@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689180395649",
+    "project_id": "coursito-e4c78",
+    "storage_bucket": "coursito-e4c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689180395649:android:8d5efb225fd93fcfd12580",
+        "android_client_info": {
+          "package_name": "com.example.coursito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689180395649-2j5lp9522gekqp02cstdtbfvc7o7rtri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRktIZxj0IoRB8OrLr9XDqguzS8m8useQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689180395649-2j5lp9522gekqp02cstdtbfvc7o7rtri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
