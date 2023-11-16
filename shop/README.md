@@ -1,8 +1,15 @@
 # shop
 
-A new Flutter application.
+A Store that allows you as a seller to add products and prices them and as a buyer to browse and purchase products.
 
-## Getting Started
+## Services and Packages Used
+
+ - provider
+ - intl
+ - flutter_windowmanager
+ - cupertino_icons
+ - floating_bottom_navigation_bar
+
 
 This project is a starting point for a Flutter application.
 
