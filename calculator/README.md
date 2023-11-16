@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter application.
+An IOS style Calculator.
 
 ## Getting Started
 
