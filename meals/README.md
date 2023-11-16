@@ -6,7 +6,7 @@ An application to view meals by category and filter them by attributes, then get
 
 - Only the main packages such as Material.
 
-- 
+  
 
 This project is a starting point for a Flutter application.
 
