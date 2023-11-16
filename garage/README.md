@@ -1,10 +1,18 @@
 # garage
 
-A new Flutter project.
+An application to control and use the services of an automatic garage using IOT which was my graduation project.
 
-## Getting Started
+## Services and Packages Used
 
-This project is a starting point for a Flutter application.
+  -Cupertino_icons
+  
+  -Firebase_core
+  
+  -Cloud_firestore
+  
+  -Firebase_auth
+
+The main idea is an app from which the user can be connected to the Garage services through the cloud using Iot.
 
 A few resources to get you started if this is your first Flutter project:
 
