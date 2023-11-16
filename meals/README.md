@@ -1,8 +1,12 @@
 # meals
 
-A new Flutter application.
+An application to view meals by category and filter them by attributes, then get the recipe
 
-## Getting Started
+## Services and Packages Used
+
+- Only the main packages such as Material.
+
+- 
 
 This project is a starting point for a Flutter application.
 
