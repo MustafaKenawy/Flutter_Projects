@@ -4,8 +4,8 @@ A Fully Functional Chat App.
 
 ## Services and Packages Used :
 
--Firebase Firestore \n
--Firebase Authentication \n
+-Firebase Firestore \r
+-Firebase Authentication \r
 -Firebase RTDB
 -Provider Package
 -image_picker
