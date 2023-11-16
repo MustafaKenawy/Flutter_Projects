@@ -1,8 +1,16 @@
 # chatooo
 
-A new Flutter application.
+A Fully Functional Chat App.
 
-## Getting Started
+## Services and Packages Used 
+
+-Firebase Firestore
+-Firebase Authentication
+-Firebase RTDB
+-Provider Package
+-image_picker
+
+
 
 This project is a starting point for a Flutter application.
 
