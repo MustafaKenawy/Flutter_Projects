@@ -1,8 +1,16 @@
 # coursito
 
-A new Flutter project.
+A Fully Functional Courses App for private lessons and learning academy.
 
-## Getting Started
+## Services and Packages Used 
+
+-Provider
+-Firebase_core
+-Cloud_firestore
+-Firebase_auth
+-Flutter_windowmanager
+-Firebase_messaging
+
 
 This project is a starting point for a Flutter application.
 
