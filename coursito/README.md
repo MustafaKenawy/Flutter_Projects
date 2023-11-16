@@ -4,17 +4,17 @@ A Fully Functional Courses App for private lessons and learning academy.
 
 ## Services and Packages Used 
 
--Provider
+- Provider
 
--Firebase_core
+- Firebase_core
 
--Cloud_firestore
+- Cloud_firestore
 
--Firebase_auth
+- Firebase_auth
 
--Flutter_windowmanager
+- Flutter_windowmanager
 
--Firebase_messaging
+- Firebase_messaging
 
 
 
